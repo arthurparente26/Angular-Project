@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Implementação de uma aplicação Angular apenas para fins de aprendizagem 
 
-Desenvolvida por Arhur Parente !
+(em desenvolvimento) por Arhur Parente !
